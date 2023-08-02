@@ -1,3 +1,8 @@
+# Why this fork?
+This fork only exists to solve an [issue](https://github.com/sanchit-gandhi/whisper-jax/issues/122#issuecomment-1657768459) with the original repo.
+
+
+
 # Whisper JAX
 
 This repository contains optimised JAX code for OpenAI's [Whisper Model](https://arxiv.org/abs/2212.04356), largely built 
